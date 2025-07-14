@@ -38,25 +38,26 @@ https://github.com/user-attachments/assets/e7e10e5c-103e-4f53-8810-11ea12611870
 
 ## 📸 Screenshots
 
-<img width="200" height="500" alt="1splash_screen" src="https://github.com/user-attachments/assets/5c585291-d7f9-4656-b9cb-b3a45edfff7d" />
+
+<img width="200" height="500" alt="1splash_screen" src="https://github.com/user-attachments/assets/29fe7708-dfcb-42c8-afdc-7c7ca5c04702" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="2user_details" src="https://github.com/user-attachments/assets/465c5981-fad2-459d-9166-d8552e83afaa" />
+<img width="200" height="500" alt="2user_details" src="https://github.com/user-attachments/assets/6af7caa6-8d30-4533-8c4f-bf3c9607fae0" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="3home_screen" src="https://github.com/user-attachments/assets/e6118608-be26-4950-9a78-8889b6eb0729" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/><br/>
-<img width="200" height="500" alt="4home_screen2" src="https://github.com/user-attachments/assets/5ed47e3e-8178-4717-810f-5f80227fe77c" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="5add_workout_screen" src="https://github.com/user-attachments/assets/c783b56f-6395-49c3-a453-6741916e01e4" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="6Screenshot_20250515_123816" src="https://github.com/user-attachments/assets/9bf99415-f523-4f8f-8dc3-d5b1c570217c" />
+<img width="200" height="500" alt="3home_screen" src="https://github.com/user-attachments/assets/81ace470-cb6d-4fc6-81ab-1509452ba515" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/>
-<img width="200" height="500" alt="7Screenshot_20250515_124124" src="https://github.com/user-attachments/assets/0a58b16d-b278-4526-874b-05fe15e357d2" />
+<img width="200" height="500" alt="4home_screen2" src="https://github.com/user-attachments/assets/63ff04ec-be5c-4094-a913-689a49d6c6b7" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="8Screenshot_20250515_124506" src="https://github.com/user-attachments/assets/80204f90-c4df-4c91-a2db-38baa3b65df1" />
+<img width="200" height="500" alt="5add_workout_screen" src="https://github.com/user-attachments/assets/bc18140e-247f-4504-9a82-f86ebd96f811" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="500" alt="9Screenshot_20250515_133008" src="https://github.com/user-attachments/assets/b8888082-b8c6-4328-8f31-4a5b666e4a82" />
+<img width="200" height="500" alt="6Screenshot_20250515_123816" src="https://github.com/user-attachments/assets/9b7675b1-3dab-4bf2-b15d-c5990da4e634" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
+<img width="200" height="500" alt="7Screenshot_20250515_124124" src="https://github.com/user-attachments/assets/2e5360b5-e619-4057-825e-7a88923ff924" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="200" height="500" alt="8Screenshot_20250515_124506" src="https://github.com/user-attachments/assets/b461a76a-4a48-419a-a925-e9c9dc1c567f" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="200" height="500" alt="9Screenshot_20250515_133008" src="https://github.com/user-attachments/assets/90c329a3-2e37-40c6-a3e4-80da6cfb017e" />
 
 
 ## 📚 References
